@@ -15,3 +15,4 @@ test code
 #### Tagesreflexion 21.08.2025
 Heute habe ich meine Aufträge erledigt und meine Pausen sehr gut aufgeteilt. 
 Ich habe heute auch alle meine Ziele erledigt und ich konnt meine Aufträge vollständig ausfüllen.
+Heute haben wir erklärt bekommen was die QV ist und jetzt weiss ich viel mehr über die QV
