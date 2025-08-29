@@ -36,6 +36,7 @@ Ich möchte meine Lernperiode auf Visualstudio Code Schreiben und diese dann auf
 #### Tagesreflexion 29.08.2025
 Ich habe heute eine Lernperiode erstellt indem ich viele Ziele und auch noch vieles mehr aufgeschrieben habe. Heute habe ich einen Teil drinnen und einen Teil draussen gearbeitet. Ich habe als erstes die Lernperiode geschrieben und es gab komplikationen mit Visual Studio Code und der Github konfiguration, aber ich habe Leonardo gefragt und er hat mir bei diesem Problem geholfen.
 Als es dann später funktionierte habe ich die PAP vom Mission 6 angefangen zu arbeiten.
+Ich konnte heute mehr Selbstständiger arbeiten und ich habe meine Fragen zum Visual Studio Code geklärt.
 
 
 ## Lernperiode Reflexion
