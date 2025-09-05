@@ -44,6 +44,8 @@ Ich konnte heute mehr Selbstständiger arbeiten und ich habe meine Fragen zum Vi
 2. Ich will wenn es möglich ist das PAP für die Mission 6 beenden.
 3. Ich will Handlungsziel 1 vollständig und präzise erledigen.
 #### Tagesreflexion 05.09.2025
+Heute habe ich am Modul 431 weiter gearbeitet und ich habe das Handlungsziel 1 erfolgreich abgeschlossen. Ich konnte heute meinen Mitschüler*innen helfen beim Modul 431 Auftrag 1706.
+Meine Pausen habe ich sehr gut eingeteilt, ich habe insgesamt 3 mal Pause gemacht, zweimal 5 Minuten und dann noch einmal 30 Minuten. Ich habe meine Aufgaben selbstständig und konzentriert gelöst.
 
 
 ## Lernperiode Reflexion
