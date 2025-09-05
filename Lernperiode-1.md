@@ -38,5 +38,12 @@ Ich habe heute eine Lernperiode erstellt indem ich viele Ziele und auch noch vie
 Als es dann später funktionierte habe ich die PAP vom Mission 6 angefangen zu arbeiten.
 Ich konnte heute mehr Selbstständiger arbeiten und ich habe meine Fragen zum Visual Studio Code geklärt.
 
+## 4. Tag 
+### Ziele
+Ich will für heute diese ILA Stunde im Modul 431, Handlungsziel 1, Aufräge 1706 und 1707 vollständig erledigen
+Ich will wenn es möglich ist das PAP für die Mission 6 beenden
+Ich will Handlungsziel 1 vollständig und präzise erledigen 
+#### Tagesreflecion
+
 
 ## Lernperiode Reflexion
