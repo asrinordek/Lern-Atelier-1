@@ -49,5 +49,11 @@ Meine Pausen habe ich sehr gut eingeteilt, ich habe insgesamt 3 mal Pause gemach
 ## Planung 12.09.2025
 Ich möchte an diesem Tag am Modul 319 Arbeiten an der Mission 7. Ich möchte auch noch eine Ordung im Modulplan erschaffen
 
+## 5. Tag 
+### Ziele
+1. Ich will heute Modul 431 Auftrag 1708 erarbeiten
+2. Ich will heute Modul 431 Auftrag 1709 erarbeiten
+3. Ich will meine Pausen gerecht aufteilen
+#### Tagesreflexion
 
 ## Lernperiode Reflexion
