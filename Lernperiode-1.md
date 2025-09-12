@@ -55,5 +55,9 @@ Ich möchte an diesem Tag am Modul 319 Arbeiten an der Mission 7. Ich möchte au
 2. Ich will heute Modul 431 Auftrag 1709 erarbeiten
 3. Ich will meine Pausen gerecht aufteilen
 #### Tagesreflexion
+Heute habe ich am Modul 431 gearbeitet. Ich hatte paar Fragen aber sonst bin ich gut durchgekommen.
+Ich habe heute draussen gearbeitet im Zimmer 522 mit Mark, Erton, Philip, Aaron und Nohan. Sie konnten mir dann auch helfen.
+Heute habe ich nochmals im Detail gelernt dass ich mein Laptop nicht offen lassen sollte.
+Ich habe meine Pausen nicht ganz genau eingehalten aber dafür konnte ich heute gut und präzise arbeiten
 
 ## Lernperiode Reflexion
