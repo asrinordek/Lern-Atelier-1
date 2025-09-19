@@ -66,4 +66,6 @@ Ich habe meine Pausen nicht ganz genau eingehalten aber dafür konnte ich heute 
 2. Ich möchte heute Mission 7 beenden.
 3. Ich möchte heute Mission 8 Auftrag 2 fertig bearbeiten.
 #### Tagesreflexion
+Ich habe heute am Modul 431 weitergearbeitet ich habe 1709,1710,1713 effizent und im detail erledigt.
+Ich habe meine Pausen sehr gut eingeteilt. Ich konnte in ruhe selbstständig arbeiten und ich habe jetzt besser gearbeitet als beim letzten mal in einem separaten Raum 
 ## Lernperiode Reflexion
