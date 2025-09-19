@@ -60,4 +60,10 @@ Ich habe heute draussen gearbeitet im Zimmer 522 mit Mark, Erton, Philip, Aaron 
 Heute habe ich nochmals im Detail gelernt dass ich mein Laptop nicht offen lassen sollte.
 Ich habe meine Pausen nicht ganz genau eingehalten aber dafür konnte ich heute gut und präzise arbeiten
 
+## 6. Tag
+### Ziele
+1. Ich möchte heute am Modul 431 weiter arbeiten.
+2. Ich möchte heute Mission 7 beenden.
+3. Ich möchte heute Mission 8 Auftrag 2 fertig bearbeiten.
+#### Tagesreflexion
 ## Lernperiode Reflexion
