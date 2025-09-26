@@ -59,7 +59,8 @@ Heute habe ich am Modul 431 gearbeitet. Ich hatte paar Fragen aber sonst bin ich
 Ich habe heute draussen gearbeitet im Zimmer 522 mit Mark, Erton, Philip, Aaron und Nohan. Sie konnten mir dann auch helfen.
 Heute habe ich nochmals im Detail gelernt dass ich mein Laptop nicht offen lassen sollte.
 Ich habe meine Pausen nicht ganz genau eingehalten aber dafür konnte ich heute gut und präzise arbeiten
-
+## Planung 
+Ich möchte am 6. Tag weiter am Modul 431 arbeiten.
 ## 6. Tag
 ### Ziele
 1. Ich möchte heute am Modul 431 weiter arbeiten.
@@ -68,4 +69,13 @@ Ich habe meine Pausen nicht ganz genau eingehalten aber dafür konnte ich heute 
 #### Tagesreflexion
 Ich habe heute am Modul 431 weitergearbeitet ich habe 1709,1710,1713 effizent und im detail erledigt.
 Ich habe meine Pausen sehr gut eingeteilt. Ich konnte in ruhe selbstständig arbeiten und ich habe jetzt besser gearbeitet als beim letzten mal in einem separaten Raum 
+## Planung 
+Ich möchte am 7. Tag das Video beenden vom Auftrag 1719
+## 7. Tag
+1. Ich will das Video vom Modul 431 nach dem IPERKA planen
+2. Ich will das wir das Video aufnehmen können
+3. Ich will das ich meine Pausen besser einteilen kann
+#### Tagesreflexion
+Ich habe heute in meiner Gruppe  
+
 ## Lernperiode Reflexion
