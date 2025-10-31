@@ -14,6 +14,7 @@ Ich habe momentan selber keine Projekte die ich in meiner freizeit mache, aber i
 2. Ich will meine Aufgaben effizient und effektiv erledigen.
 3. Ich will das Projekt mit Vanessa zusammen richtig erarbeiten, damit unsere Kundin zufrieden ist und damit wir vilesm mehr dazu lernen.
 
+
 24.10.2025
 ## 1. Tag
 ### Ziele
