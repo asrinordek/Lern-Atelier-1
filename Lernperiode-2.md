@@ -1,7 +1,7 @@
-# Lern-periode 1
+# Lern-periode 2
 Name: Asrin Ördek
 24.10.2025 bis 19.12.2025
-##Grob-Planung
+## Grob-Planung
 ### Noten
 Bisher bin ich zufrieden mit meinen Noten ausser im Mathe. Wir werden in dieser Lernperiode eine Projektarbeit haben. 
 ### Veränderungen
