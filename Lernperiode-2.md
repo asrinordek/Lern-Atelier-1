@@ -28,3 +28,32 @@ Ich habe dafür alles abgegeben nur noch 3 Abgaben dann bin ich fertig.
 
 ## Planung für 31.10.2025
 Ich möchte für informatik lernen und meine Pausen diesmal richtig einteilen damit ich auch mal meinen Kopf auslüften kann. Ich möchte noch an meinen Aufträgen arbeiten falls es welche gibt.
+
+31.10.2025
+## 2. Tag
+### Ziele
+1. Ich möchte für das Modul 319 üben
+2. Ich möchte heute den Cheat Sheet schreiben
+3. Ich möchte heute ein Dossier erstellen zum Modul 319
+
+#### Tagesreflexion
+Ich habe ein Dossier erstellt und ich konnte mich auch sehr gut mit den Anderen austauschen indem wir unser gemeinsames Wissen miteinander geiteilt haben.
+Ich habe mit Phillip das Dossier angeschaut und gelernt.
+Ich habe auch mit Vanessa zusammen an unserem Projekt bei Frau Dillier angeschaut und wir haben die Anforderungsanalyse vollständig abgeschlossen und mit den PAP angefangen und so bearbeitet das es Sinn ergibt.
+
+## Planung für 07.11.2025
+Ich möchte mit Vanessa zusammen an unserem Französisch Konjugationsrechner arbeiten also vielleicht sogar den Code anfangen zu schreiben wenn möglich und wenn nicht möglich dann möchte ich das wir das PAP vollständig beenden.
+
+07.11.2025
+## 3. Tag 
+### Ziele
+1. Ich möchte heute am modul 162 arbeiten
+2. ich möchte das PAP mit Vanessa beenden
+3. ich möchte meine Pausen richtig einteilen
+
+#### Tagesreflexion
+Ich habe heute an meinen Aufgaben im Modul 162 gearbeitet ich habe sie alle effizient und präzise bearbeitet. Ich konnte leider nicht am PAP mit vanessa arbeiten, weil sie noch anderes zu tun hatte.
+Dafür habe ich mich mit etwas anderem beschäftigt und zwar mit einem Auftrag von einem bekannten von mir. Ich wollte herausfinden mit welchem programm eine Innenarchitekt designerin arbeitet, aber es ist sehrwahrscheinlich so dass sie ihr eigenes Programm dafür hat (privates Programm).
+
+## Planung 17.11.2025
+Ich will am Modul 162 Weiter arbeiten und evtl noch an unserem Projekt mit Vanessa.
