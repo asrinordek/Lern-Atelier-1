@@ -57,3 +57,13 @@ Dafür habe ich mich mit etwas anderem beschäftigt und zwar mit einem Auftrag v
 
 ## Planung 17.11.2025
 Ich will am Modul 162 Weiter arbeiten und evtl noch an unserem Projekt mit Vanessa.
+
+
+14.11.2025
+## 4. Tag 
+### Ziele
+1. Ich möchte heute im Modul 162 die Aufgaben 1734 und 1731 präzise und Effektiv erledigen.
+2. Ich möchte an unserem Projekt mit Vanessa arbeiten
+3. Ich möchte meine Pausen gut einteilen
+
+#### Tagesreflexion
