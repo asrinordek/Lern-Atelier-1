@@ -67,3 +67,5 @@ Ich will am Modul 162 Weiter arbeiten und evtl noch an unserem Projekt mit Vanes
 3. Ich möchte meine Pausen gut einteilen
 
 #### Tagesreflexion
+Ich habe heute meine Aufträge 1734 und 1731 erledigt ich habe viele neue Formeln kennengelernt und ich habe diese auch für meine Tabelle auf Excel benutzt ich hatte bisschen probleme aber ich konnte sie trotzdem mit hilfe von Thomi erledigen.
+Ich und Vanessa haben an unserem Projekt weiter gearbeitet, wir haben die Anforderungsanalyse nochmals angeschaut und wir haben einen Plan auf Excel gemacht.
