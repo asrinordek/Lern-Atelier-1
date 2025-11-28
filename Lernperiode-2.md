@@ -69,3 +69,30 @@ Ich will am Modul 162 Weiter arbeiten und evtl noch an unserem Projekt mit Vanes
 #### Tagesreflexion
 Ich habe heute meine Aufträge 1734 und 1731 erledigt ich habe viele neue Formeln kennengelernt und ich habe diese auch für meine Tabelle auf Excel benutzt ich hatte bisschen probleme aber ich konnte sie trotzdem mit hilfe von Thomi erledigen.
 Ich und Vanessa haben an unserem Projekt weiter gearbeitet, wir haben die Anforderungsanalyse nochmals angeschaut und wir haben einen Plan auf Excel gemacht.
+
+
+21.11.25
+## 4. Tag 
+### Ziele
+1. Ich möchte im Modul 162 die Aufgabe 1742 machen, weil ich am Dienstag nicht mit diesem Auftrag nicht fertig wurde
+2. Ich möchte an unserem Informatikprojekt für unsere Kundin weiter arbeiten mit Vanessa, ich möchte en Code möglichst fertig machen.
+3. Ich möchte noch die Planung von unserem Projekt anfangen 
+
+#### Tagesreflexion
+Heute habe ich im Modul 162 den Auftrag 1742 beendet und ich habe dann nach dem mit Vanessa zusammen an unserem Projekt gearbeitet wir haben alle unregelmässigen verben definiert, weil die unregelmässigen Verben nicht gegangen sind. Wir machen einen Französisch konjugationstrainer. Es macht mir sehr spass zu programmiern, weil ich suche gerne nach lösungen wenn ein Problem auftritt. Wir müssen jetzt nur eine Statistik einbauen und nochmals wegen den unregelmässigen Verben anschauen.
+
+
+# Planung 28.11.25
+Ich möchte nächste woche an der Pojektpräsentation arbeiten damit wir am wochenende wirklich nur auswendig lernen müssen. Ich möchte vielleicht noch wenn ich am Dienstag nicht fertig werden mit meinen Aufgaben diese noch am Freitag mache.
+Ich möchte meine Pausen viel besser einteilen.
+
+
+28.11.25
+## 5. Tag
+### Ziele 
+1. Ich möchte heute die PowerPointPräsentation mit Vanessa zusammen machen so damit wir nur noch das alles auswerndig lernen müssen über das Wochenende. 
+2. Ich möchte noch die Datenbanken genauer anschauen und mich besser über das Thema informieren damit ich mich sicher Fühle bei diesem Thema. 
+3. Ich möchte einen Lernzettel oder ein Dossier erstellen für die Datenbanken.
+4. Ich möchte meine Pausen besser einteilen
+
+#### Tagesreflexion
