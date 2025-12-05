@@ -96,3 +96,5 @@ Ich möchte meine Pausen viel besser einteilen.
 4. Ich möchte meine Pausen besser einteilen
 
 #### Tagesreflexion
+Wir haben sehr gut gearbeitet, wir sind sehr gut voran gekommen mit der Powerpoint Präsentation. Ich konnte meine Aufgaben zu den Datenbarken auch vollständig erledigen. Ich und Vanessa müssen nur noch Kartei Kärtchen schreiben und alles auswendig lernen.
+Ich konnte leider noch kein Lernzettel oder ein Dossier erstellen, aber ich habe dafür die Aufgaben die ich gemacht habe verstanden.
