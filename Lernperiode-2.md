@@ -98,3 +98,13 @@ Ich möchte meine Pausen viel besser einteilen.
 #### Tagesreflexion
 Wir haben sehr gut gearbeitet, wir sind sehr gut voran gekommen mit der Powerpoint Präsentation. Ich konnte meine Aufgaben zu den Datenbarken auch vollständig erledigen. Ich und Vanessa müssen nur noch Kartei Kärtchen schreiben und alles auswendig lernen.
 Ich konnte leider noch kein Lernzettel oder ein Dossier erstellen, aber ich habe dafür die Aufgaben die ich gemacht habe verstanden.
+
+
+05.12.2'25
+## 6. Tag 
+### Ziele
+1. Ich möchte mir ein Dossier erstellen zu den Datenbanken und alle Aufgaben die wir bisher gemacht haben verstehen.
+2. Ich möchte mir wenn ich noch zeit habe einen Voci trainer erstellen und dann meine Beliebige Vocis hinzufügen.
+3. Ich möchte meine Pausen gut einteilen damit es nicht zu viel wird für mich also damit ich nicht vergesse Pausen zu machen wie bei den letzten 2 malen.
+
+#### Tagesreflexion
