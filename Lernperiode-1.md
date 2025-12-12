@@ -79,3 +79,5 @@ Ich möchte am 7. Tag das Video beenden vom Auftrag 1719
 Ich habe heute in meiner Gruppe  
 
 ## Lernperiode Reflexion
+
+Ich fand die erste Lernperiode sehr gut zum beispiel bei dem Modul 431 habe ich eine sehr gute note gemacht. Ich finde ich hätte beim Modul 319 eine viel bessere Note holen. Ich hatte bei der Prüfung einen Black out und ich möchte bei der nächsten Prüfung keinen Black out bekommen.

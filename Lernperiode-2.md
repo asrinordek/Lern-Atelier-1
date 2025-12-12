@@ -13,6 +13,7 @@ Ich habe momentan selber keine Projekte die ich in meiner freizeit mache, aber i
 1. Ich möchte besser Programmieren können auf C#
 2. Ich will meine Aufgaben effizient und effektiv erledigen.
 3. Ich will das Projekt mit Vanessa zusammen richtig erarbeiten, damit unsere Kundin zufrieden ist und damit wir vilesm mehr dazu lernen.
+4. Ich will meine Ordner ordung beibehalten
 
 
 24.10.2025
@@ -100,11 +101,40 @@ Wir haben sehr gut gearbeitet, wir sind sehr gut voran gekommen mit der Powerpoi
 Ich konnte leider noch kein Lernzettel oder ein Dossier erstellen, aber ich habe dafür die Aufgaben die ich gemacht habe verstanden.
 
 
-05.12.2'25
+05.12.2025
 ## 6. Tag 
 ### Ziele
 1. Ich möchte mir ein Dossier erstellen zu den Datenbanken und alle Aufgaben die wir bisher gemacht haben verstehen.
 2. Ich möchte mir wenn ich noch zeit habe einen Voci trainer erstellen und dann meine Beliebige Vocis hinzufügen.
 3. Ich möchte meine Pausen gut einteilen damit es nicht zu viel wird für mich also damit ich nicht vergesse Pausen zu machen wie bei den letzten 2 malen.
+
+#### Tagesreflexion
+Heute habe ich das Dossier mit den wichtigsten Begriffen erstellt und die Handlungsziele von 1-3 erklärt. Ich habe versucht mir einen Voci trainer herzustellen aber es hat nicht so gut funktionert, also als erstes hat alles sehr gut funktioniert und dann irgendwie gar nichts mehr. Ich konnte meine Pausen besser einhalten als letztes mal.
+
+# Planung 12.12.2025
+Ich möchte nächstes mal die LB Vorlage nochmals anschauen. Ich möchte auch noch an meinem Dossier weiter arbeiten.
+
+
+12.12.25
+## 7. Tag
+### Ziele
+1. Ich möchte die verschiedenen Beziehungen zwischen den Tabellen besser Verstehen und die Verschiedenen Pfeile auf UML
+2. Ich möchte an meinem Dossier weiter arbeiten
+3. Ich möchte mit meinem OBA anfangen
+4. Ich möchte die Repetitions Aufgaben erledigen
+
+#### Tagesreflexion
+Ich kann die verschiedenen Beziehungen zwischen den Tabellen. Ich habe meine Pausen besser eingeteilt Heute. Ich habe angefangen die Repetitions aufgaben zu machen. Ich habe heute nicht mit dem OBA angefangen. Ich fange am Sonntag an damit. Ich habe auch an meinem Dossier gearbeitet.
+
+# Planung 19.12.2025
+Ich möchte an diesem Tag meinen Rückblich zur Lernperiode 2 schreiben. Ich möchte am Modul 117 Arbeiten und die bisherigen Aufträge erledigen. Ich möchte das Handlungsziel 1 fertig machen.
+
+
+19.12.2025
+## 8. Tag
+### Ziele
+1. Heute möchte ich am Modul 117 Arbeiten und meine Aufträge bis und mit Handlungsziel 1 fertig machen
+2. Ich möchte heute meinen Voci Trainer weiter konjugieren
+3. Ich möchte heute meine Pausen gut einteilen
 
 #### Tagesreflexion
