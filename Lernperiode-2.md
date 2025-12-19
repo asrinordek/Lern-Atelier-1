@@ -138,5 +138,9 @@ Ich möchte an diesem Tag meinen Rückblich zur Lernperiode 2 schreiben. Ich mö
 3. Ich möchte heute meine Pausen gut einteilen
 
 #### Tagesreflexion
+Heute habe ich am Modul 177 weiter gearbeitet. Ich konnte meine Pausen gut einteilen.
+Ich habe mit Mark zusammen an meinem Voci Trainer bisschen weiter programmiert. Am Anfang als ich daran gearbeitet habe tauchten auf einman viele Fehler auf und ich konnte letztes mal noch ein paar syntax Fehler korrigieren, so hatte ich heute weniger Fehler die ich dann mit Mark angeschaut habe. 
 
-
+## 2. Lernperiode Reflexion
+In dieser Lernperiode hatten wir unsere ersten Prüfungen ich hatte meine erstes Abgabe Modul 431, dort bekam ich eine 6 und ich habe in unserer ersten LB zu Modul 319 habe ich eine 4.5 geschrieben. Ich könnte eine viel bessere note schreiben, aber ich habe in der Prüfung einen Black out bekommen das brachte mich dann komplett raus. Bei unserer zweiten LB über das Modul 162 habe ich ein komisches gefühl irgendwie denke ich das es nicht so gut ausgekommen ist oder Gut. Ich möchte mir für die nächste Lernperiode vornehmen neue tipps zu suchen gegen Blackouts und ich möchte viel früher anfangen mit dem Lernen für die LB so etwa 2 Wochen früher.
+Wir haben seit zwei wochen mit dem neuen Modul gestartet M 117. Das ist ein Fliess Modul, also hier ist es wichtig das ich alle Aufgaben rechtzeitig erledige. Ich könnte jetzt in diesen Weihnachtsferien Viel da dran arbeiten.
