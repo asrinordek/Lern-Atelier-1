@@ -23,6 +23,7 @@ Momentan habe ich selber keine Projekte aber bei Frau Rieder fangen wir an mit e
 3. Ich will genügend pausen machen und ich möchte auch die Pausen richtig einteilen.
 
 #### Tagesreflexion
+Heute habe ich sehr gut gearbeitet bin fast fertig geworden mit meinen Abgaben vom HZ1 und HZ2. Ich habe nicht so oft Pausen eingebaut aber dafür sehr effizient gearbeitet.Ich habe alle meine Moodle Tests abgeschlossen und ich muss jetzt nur noch meine drei letzten Abgaben machen. Ich habe die einte aufgabe mit Vanessa gemacht also muss ich nur noch einmal drüber schauen und dann könnte ich das abgeben und somit habe ich nur noch die letzten zwei abgaben und dann wäre ich fertig.
 
 
 ## Planung für 16.01.2026
