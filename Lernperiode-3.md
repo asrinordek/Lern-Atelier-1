@@ -29,13 +29,25 @@ Heute habe ich sehr gut gearbeitet bin fast fertig geworden mit meinen Abgaben v
 ## Planung für 16.01.2026
 Ich möchte an diesem Tag am Modul 164 arbeiten. 
 
-16
+16.01.2026
 ## 2. Tag 
 ### Ziele
 1. Ich möchte mein Mathe Video aufnehmen mit Vanessa und ich will es unbedingt rechtzeitig abgeben
 2. Ich möchte meine Pausen richtig einteilen
 
 #### Tagesreflexion 
-Ich habe heute nur an meinem Mathe video gearbeitet und ich konnte fast gar nichts machen für informatik und wir haben das video zu spät abgegeben
+Ich habe heute nur an meinem Mathe video gearbeitet und ich konnte fast gar nichts machen für informatik und wir haben das video zu spät abgegeben.
+
+## Planung für 23.01.2026
+Ich möchte am Modul 117 weiterarbeiten und mein Thema zu meinem Projekt im Modul 164 aussuchen und die Daten dafür aufbereiten.
+
+
+23.01.2026
+## 3. Tag
+### Ziele
+1. Ich möchte heute am Modul 117 weiter arbeiten
+2. Ich möchte heute mein Projekt aussuchen
+3. Ich möchte ein neues Projekt für mich starten, aber ich weiss nicht welches ich starten sollte.
+
 
 
