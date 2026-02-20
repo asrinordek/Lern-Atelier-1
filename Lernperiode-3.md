@@ -65,10 +65,11 @@ Ich möchte eine neue Programmiersprache lernen.
 #### Tagesreflexion 
 Heute war der letzter Tag von Mark mit uns. Er wird uns in der Klasse sehr fehlen und wir haben es alle mit ihm genossen. Wir haben zusammen den Mittag verbracht und wir waren deswegen bisschen Später im Unterricht aufgetaucht. 
 
+###### Sportferien
 
 
 20.02.2026
-## 7. Tag 
+## 5. Tag 
 ### Ziele
 1. Ich will mit Vanessa zusammen aufträge erledigen im M117
 2. Ich möchte evtl mit meinem neuen Projekt starten.
