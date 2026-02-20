@@ -49,5 +49,18 @@ Ich möchte am Modul 117 weiterarbeiten und mein Thema zu meinem Projekt im Modu
 2. Ich möchte heute mein Projekt aussuchen
 3. Ich möchte ein neues Projekt für mich starten, aber ich weiss nicht welches ich starten sollte.
 
+#### Tagesreflexion
+Ich habe heute meine Aufträge erledigt und ich habe mein neues Projekt angefangen. Ich mache ein Quiz auf C#, aber zum refreshen habe ich mir auf Wschool die Programmiersprache nochmals angeschaut.
 
+## Planung für 30.01.2026
+Ich möchte eine neue Programmiersprache lernen.
 
+30.01.2026
+## 4. Tag
+### Ziele
+1. Ich möchte für heute mit Mark zusammen eine neue Programmiersprache anschauen.
+2. Ich möchte meine Pausen gerecht aufteilen.
+3. Ich möchte an meinem Projekt weiter arbeiten.
+
+#### Tagesreflexion 
+Heute war der letzter Tag von Mark mit uns. Er wird uns in der Klasse sehr fehlen und wir haben es alle mit ihm genossen. Wir haben zusammen den Mittag verbracht und wir waren deswegen bisschen Später im Unterricht aufgetaucht. 
