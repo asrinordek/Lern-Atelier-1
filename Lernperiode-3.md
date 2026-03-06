@@ -74,3 +74,32 @@ Heute war der letzter Tag von Mark mit uns. Er wird uns in der Klasse sehr fehle
 1. Ich will mit Vanessa zusammen aufträge erledigen im M117
 2. Ich möchte evtl mit meinem neuen Projekt starten.
 3. Ich möchte genug pausen einplanen und mich konzentrieren können im Unterricht
+
+#### Tagesreflexion
+Ich habe alle meine Ziele erledigt die ich mir für heute eingetragen habe. Ich konnte mich gut konzentrieren und ich habe anstatt ein neues Projekt zu starten an meiner Programmiersprache Python weiter gelernt.
+
+## Planung für 27.02.2026
+SQL Projekt weiter arbeiten.
+
+
+27.02.2026
+## 6. Tag
+### Ziele
+1. Ich möchte zuerst an meinem SQL Projekt arbeiten
+2. Ich möchte die Aggregation, Integrität und Assoziation anschauen.
+3. Ich möchte meine Pausen richtig einteilen.
+
+#### Tagesreflexion
+Ich habe nur an meinem SQL Projekt weiter gearbeitet und ich habe zu den Beziehungen mit Herrn Lauk eine PowerPoint Präsentation gefunden und somit konnte ich gut weiterarbeiten.
+
+## Planung 06.03.2026
+Python lernen
+
+06.03.2026
+## 7. Tag
+### Ziele
+1. Ich möchte heute die Programmiersprache Python weiter lernen
+2. Ich will evtl ein neues Projekt anfangen auf C#
+3. Ich möchte wenn ich noch zeit habe für das neue Modul 187 einen Auftrag erledigen.
+
+
