@@ -26,7 +26,7 @@ Momentan habe ich selber keine Projekte aber bei Frau Rieder fangen wir an mit e
 Heute habe ich sehr gut gearbeitet bin fast fertig geworden mit meinen Abgaben vom HZ1 und HZ2. Ich habe nicht so oft Pausen eingebaut aber dafür sehr effizient gearbeitet.Ich habe alle meine Moodle Tests abgeschlossen und ich muss jetzt nur noch meine drei letzten Abgaben machen. Ich habe die einte aufgabe mit Vanessa gemacht also muss ich nur noch einmal drüber schauen und dann könnte ich das abgeben und somit habe ich nur noch die letzten zwei abgaben und dann wäre ich fertig.
 
 
-## Planung für 16.01.2026
+##### Planung für 16.01.2026
 Ich möchte an diesem Tag am Modul 164 arbeiten. 
 
 16.01.2026
@@ -38,7 +38,7 @@ Ich möchte an diesem Tag am Modul 164 arbeiten.
 #### Tagesreflexion 
 Ich habe heute nur an meinem Mathe video gearbeitet und ich konnte fast gar nichts machen für informatik und wir haben das video zu spät abgegeben.
 
-## Planung für 23.01.2026
+##### Planung für 23.01.2026
 Ich möchte am Modul 117 weiterarbeiten und mein Thema zu meinem Projekt im Modul 164 aussuchen und die Daten dafür aufbereiten.
 
 
@@ -52,7 +52,7 @@ Ich möchte am Modul 117 weiterarbeiten und mein Thema zu meinem Projekt im Modu
 #### Tagesreflexion
 Ich habe heute meine Aufträge erledigt und ich habe mein neues Projekt angefangen. Ich mache ein Quiz auf C#, aber zum refreshen habe ich mir auf Wschool die Programmiersprache nochmals angeschaut.
 
-## Planung für 30.01.2026
+##### Planung für 30.01.2026
 Ich möchte eine neue Programmiersprache lernen.
 
 30.01.2026
@@ -78,7 +78,7 @@ Heute war der letzter Tag von Mark mit uns. Er wird uns in der Klasse sehr fehle
 #### Tagesreflexion
 Ich habe alle meine Ziele erledigt die ich mir für heute eingetragen habe. Ich konnte mich gut konzentrieren und ich habe anstatt ein neues Projekt zu starten an meiner Programmiersprache Python weiter gelernt.
 
-## Planung für 27.02.2026
+##### Planung für 27.02.2026
 SQL Projekt weiter arbeiten.
 
 
@@ -92,7 +92,7 @@ SQL Projekt weiter arbeiten.
 #### Tagesreflexion
 Ich habe nur an meinem SQL Projekt weiter gearbeitet und ich habe zu den Beziehungen mit Herrn Lauk eine PowerPoint Präsentation gefunden und somit konnte ich gut weiterarbeiten.
 
-## Planung 06.03.2026
+##### Planung 06.03.2026
 Python lernen
 
 06.03.2026
