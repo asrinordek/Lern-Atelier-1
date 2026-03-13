@@ -120,3 +120,7 @@ Ich möchte das gelernte umsetzen und zwar indem ich einen Python Projekt starte
 #### Tagesreflexion 
 Heute habe ich mit Python ein mini Projekt erstellt nämlich einen voci Trainer. Ich habe viele neue webseiten gefunden die sehr gut sind zum Programmiersprachen lernen. Auf der Webseite: https://learn-anything.xyz/
 habe ich sehr gute Links gefunden. Ich habe auch ein paar links genauer angeschaut und ich habe auch auf Instagram gute webseiten gefunden.
+
+
+#### Planung 20.03.2026
+Ich möchte mein mini Python Projekt erweitern und ich möchte eine Webseite erstellen mit HTML.
