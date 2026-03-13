@@ -102,4 +102,19 @@ Python lernen
 2. Ich will evtl ein neues Projekt anfangen auf C#
 3. Ich möchte wenn ich noch zeit habe für das neue Modul 187 einen Auftrag erledigen.
 
+#### Tagesreflexion
+Heute habe ich an der Programmiersprache Python weitergelernt auf We3School. Diese Webseite hatte mir Luc Wilcox gezeigt und hier hat man auch fast alle Programmiersprachen.
+Ich wollte eingentlich ein neues C# Projekt starten, aber ich habe mir gedacht ich lerne heute Python und starte nächstes mal en Python Projekt.
+Ich habe keinen Auftrag erledigt vom M187
+
+##### Planung 13.03.2026
+Ich möchte das gelernte umsetzen und zwar indem ich einen Python Projekt starte.
+
+
+## 8. Tag 
+### Ziele
+1. Ich möchte heute ein Python Projekt starten.
+2. Ich möchte mein Python Projekt auf Visual Studio Code machen und ich möchte das mit dem Ausführen genauer anschauen.
+3. Ich möchte meine Pausen richtig einteilen
+
 
