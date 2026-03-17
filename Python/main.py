@@ -21,11 +21,13 @@ for franz in Vocis:
 
     if antwort == Vocis[franz]:
         print('Richtig!')
-
-        
+     
     else: 
         print("Falsch ")
         print("Richtig wäre:", Vocis[franz])
+
+##Count = 'Richitg' +1
+
 
 print('Du hast', len(Vocis), 'richtig')
 
