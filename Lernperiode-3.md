@@ -124,3 +124,11 @@ habe ich sehr gute Links gefunden. Ich habe auch ein paar links genauer angescha
 
 #### Planung 20.03.2026
 Ich möchte mein mini Python Projekt erweitern und ich möchte eine Webseite erstellen mit HTML.
+
+
+## 9. Tag
+### Ziele
+1. Ich möchte Heute an meinem Python Projekt arbeiten, besser gesagt neue features hinzufügen also dazuprogrammieren.
+2. Ich möchte heute drauf achten das ich meine Augen nicht so fest anstrenge und öfters mal in die Weite schaue 
+3. Ich möchte heute eine webseite programmieren auf html
+
