@@ -12,6 +12,7 @@ Vocis = {
     'une annonce': 'eine Anzeige',
     'aimer': 'mögen'
 }
+count = 0
 
 for franz in Vocis:
     print('Übersetze dieses Wort: ')
@@ -21,13 +22,13 @@ for franz in Vocis:
 
     if antwort == Vocis[franz]:
         print('Richtig!')
+        count += 1
      
     else: 
         print("Falsch ")
         print("Richtig wäre:", Vocis[franz])
 
-##Count = 'Richitg' +1
 
 
-print('Du hast', len(Vocis), 'richtig')
+print('Du hast', count, 'von', len(Vocis), 'richtig')
 
