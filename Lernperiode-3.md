@@ -1,5 +1,5 @@
 Name: Asrin Ördek
-05.01.2026 bis 30.01.2026
+05.01.2026 bis 27.03.2026
 ## Grob-Planung
 ### Noten
 Ich bin zufrieden mit meinen Noten, wir hatten die M162 Leistungsbeurteilung und ich hatte dort eine 5 ich dachte das diese Prüfung mir nicht gelungen ist. Sonst im Allgemeinen bin ich Stolz auf mich das ich gute Noten schreibe und auch das ich dieses erste Semester an der IMS fast geschafft habe ich muss jetzt nur noch meine noten so beibehalten dann ich das super.
@@ -111,6 +111,7 @@ Ich habe keinen Auftrag erledigt vom M187
 Ich möchte das gelernte umsetzen und zwar indem ich einen Python Projekt starte.
 
 
+13.03.2026
 ## 8. Tag 
 ### Ziele
 1. Ich möchte heute ein Python Projekt starten.
@@ -125,10 +126,32 @@ habe ich sehr gute Links gefunden. Ich habe auch ein paar links genauer angescha
 #### Planung 20.03.2026
 Ich möchte mein mini Python Projekt erweitern und ich möchte eine Webseite erstellen mit HTML.
 
-
+20.03.2026
 ## 9. Tag
 ### Ziele
 1. Ich möchte Heute an meinem Python Projekt arbeiten, besser gesagt neue features hinzufügen also dazuprogrammieren.
 2. Ich möchte heute drauf achten das ich meine Augen nicht so fest anstrenge und öfters mal in die Weite schaue 
 3. Ich möchte heute eine webseite programmieren auf html
 
+
+
+#### Tagesreflexion
+Ich habe heute an meinem Python Projekt weitergearbeitet. Ich habe einen Fehlerzähler Programmiert der meine Fehler zählt und diese mich dann später abfragt. Ich hatte Heute noch ein Gespräch mit Herrn Lauk. Nachdem Gespräch habe ich eine Pause gemacht mit Philip zusammen und ich wollte nach der Pause HTML anschauen und ich habe voll vergessen das Herr Lauk einen Input über Web Development macht, also sind ich und Philip während des Inputs ins Unterricht gekommen. Ich konnte aber trotzdem noch dem Input folgen,weil ich HTML mal angeschaut habe beim Schnuppern. 
+
+#### Planung für 27.03.2026
+Ich möchte nächstes mal an HTML programmieren und ich möchte meine Pausen besser einplanen, weil ich möchte keine Inputs verpassen.
+
+27.03.2026
+## 10. Tag
+### Ziele
+1. Ich möchte ein Html Projekt programmieren.
+2. Ich möchte heute meine Pausen oder allgemein die Zeit besser einplanen damit ich keine Sessions verpasse.
+3. Ich möchte an meinem Python Projekt weiter programmieren.
+
+#### Tagesreflexion
+
+
+
+## 3. Lernperiode Reflexion
+In dieser Lernperiode habe ich wieder vieles gelernt. Zum Beispiel das ich viel frühzeitiger anfange zu lernen.
+In dieser Lernperiode bin ich in der IMS Fix aufgenommen worden mit einem 4,9 schnitt. Ich bin sehr stolz auf mich das ich das geschafft habe. Ich möchte weiterhin so gas geben. Ich habe auch eigene Projekte gemacht zum Beispiel meinen eigenen Konjugationstrainer auf VS ,aber der ist leider bisschen schief gelaufen, weil es einfach an einem Tag mir soo viele fehler angezeigt hat. Dann habe ich diese Fehler mit meinem Cousin gelöst. Ich habe dann später noch einen auf Python angefangen einen Französisch Konjugationstrainer zu programmieren und an diesem Projekt bin ich auch dran. Ich habe das richtige Konzept vom Lernatelelier bisschen falsch verstanden und ich habe die meiste Zeit für die Module gearbeitet. Viele haben das so verstanden, aber als wir dann erfahren haben das wir hier an unseren eigenen Projekten arbeiten sollen habe ich angefangen nur an meinen Projekten zu arbeiten. Ich finde ich habe wieder vieles neues dazu gelernt. Das Motiviert mich um nochmehr zu lernen und das mach mir auch sehr spass neues auszuprobieren. Ich bin auch sehr Froh über meine Noten in der Informatik und ich möchte das unbedingt beibehalten bis zum Sommer. Wir haben jetzt noch ein Abgabemodul und ein Modul mit einer Leistungsbeurteilung. Dort will ich unbedint gute noten Machen weil ein Abgabemodul ist eine Fleissarbeit.
